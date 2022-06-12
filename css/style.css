@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 120px;
+    height: 80px;
+    float: left;
+    margin-left: 2%;
+}
+
+nav{
+    margin-left: 2%;
+}
+
+.slideshow-images{
+    margin-left: 2%;
+    margin-right: 2%;
+    max-width: 95%;
+    max-height: 500px;
+
+}
+
+.box-container{
+    border: 2px solid;
+    border-style: none;
+    background-color: #F8F9FA;
+    border-radius: 8px;
+    padding: 5px;
+    width: 46.5%;
+    
+}
+
